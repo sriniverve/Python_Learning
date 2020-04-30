@@ -1,5 +1,5 @@
 '''
-This is to demonstrate the usage of conditions
+This is to demonstrate the usage of conditional operators
 '''
 
 temperature = input('Enter the temperature:')

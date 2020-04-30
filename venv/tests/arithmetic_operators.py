@@ -17,5 +17,6 @@ y += 10                 #Augmented assignment operator
 
 print(x,y)
 
-
+x = 10 + 3 * 2          #BODMAS rules still apply, operator precedence
+print(x)
 

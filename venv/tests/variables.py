@@ -5,8 +5,7 @@ This program is to explain the concept of variables
 price = 10                          #storing an integer
 name = "Fuoco"                      #storing a string
 is_present = False                  #storing a bool
-#Reassigning a different value
-price = 20
+price = 20                          #Reassigning a different value
 
 #printing the value to ouptut
 print(price)
